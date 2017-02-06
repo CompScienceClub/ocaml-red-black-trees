@@ -1,4 +1,6 @@
-This is code for a presention regarding Red Black Trees for Computer Science Club.
+# Red-Black Trees in OCaml
+
+This is code for a presention regarding Red-Black Trees for Computer Science Club.
 The code is intended to be run from the command line.  It should only output something
 on error.  The test cases are not intended to be complete, and are insufficient to 
 test all code paths.  It would be better to have functions checking invariants than 
